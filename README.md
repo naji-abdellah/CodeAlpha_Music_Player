@@ -1,5 +1,9 @@
 # CodeAlpha_Music_Player
+
 🎵 A responsive and interactive music player built with HTML, CSS, and JavaScript as part of my CodeAlpha internship.
+
+---
+
 # 🎵 GREEN Beats – Music Player
 
 GREEN Beats is a responsive and interactive music player built with **HTML**, **CSS**, and **JavaScript** as part of Task 4 in the CodeAlpha Internship Program. It features playlist browsing, artist exploration, a dynamic playbar, and a smooth UI inspired by modern streaming platforms.
@@ -78,7 +82,7 @@ This is my **second ever project**, and through it I practiced:
 
 **Naji**  
 _"Design your life and code your future."_  
-[GitHub Profile](https://github.com/naji-abdellah) • [LinkedIn](https://linkedin.com/in/naji-abdellah) 
+[GitHub Profile](https://github.com/naji-abdellah) • [LinkedIn](https://linkedin.com/in/naji-abdellah-834411315) 
 
 ---
 
