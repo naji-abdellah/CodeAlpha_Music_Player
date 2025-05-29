@@ -37,13 +37,21 @@ GREEN Beats is a responsive and interactive music player built with **HTML**, **
 ## 📁 Project Structure
 
 📦 GREEN Beats
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── /images → covers
+
 ├── /music → MP3 files
+
 ├── /playlist → Playlist thumbnails
+
 ├── /logo → Logo 
+
 └── README.md
 
 ---
@@ -59,17 +67,6 @@ This is my **second ever project**, and through it I practiced:
 
 ---
 
-## 📌 Future Improvements
-
-- Playlist queue functionality
-- User-uploaded tracks
-- LocalStorage for last-played track
-- Light/dark mode toggle
-- Backend integration (Node.js or Firebase)
-
----
-
-
 ## 🙌 Acknowledgements
 
 - [CodeAlpha Internship Program](https://codealpha.tech/)
@@ -80,7 +77,7 @@ This is my **second ever project**, and through it I practiced:
 
 ## ✨ Author
 
-**Naji**  
+**NAJI ABDELLAH**  
 _"Design your life and code your future."_  
 [GitHub Profile](https://github.com/naji-abdellah) • [LinkedIn](https://linkedin.com/in/naji-abdellah-834411315) 
 
